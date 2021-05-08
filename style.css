@@ -1,0 +1,12 @@
+body {
+  background-color: #666666;
+}
+
+.selfie {
+  width: 100%;
+  border: 5px solid #8c8c8c;
+}
+
+.myContainer {
+  margin-top: 4%;
+}
