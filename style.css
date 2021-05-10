@@ -2,7 +2,7 @@ body {
   background-color: #666666;
 }
 
-.selfie {
+/* .selfie {
   width: 100%;
   border: 5px solid #8c8c8c;
   margin-left: -3%;
@@ -10,9 +10,9 @@ body {
 
 .myContainer {
   margin-top: 4%;
-}
+} */
 
-.lit {
+/* .lit {
   background-color: #a6a6a6;
   height: 15%;
   border: 5px solid #8c8c8c;
@@ -26,15 +26,16 @@ body {
   margin-top: 4%;
   text-align: center;
   border: 5px solid #8c8c8c;
-}
+} */
 
-.myFooter {
+/* .myFooter {
   background-color: #a6a6a6;
   border: 5px solid #8c8c8c;
   margin-top: 4%;
-}
+} */
 
 /* ============================================================ */
+
 /* the below styling is for the ABOUT page */
 
 /* .carousel-inner > .carousel-item > img {
@@ -42,8 +43,15 @@ body {
   height: auto;
 } */
 
-
-
 /* ============================================================ */
+
 /* the below styling is for the CONTACT page */
 
+.my-row {
+  background-color: white;
+}
+
+.selfie {
+  width: 100%;
+  border: 5px solid #8c8c8c;
+}
