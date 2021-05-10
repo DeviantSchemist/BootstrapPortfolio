@@ -12,10 +12,11 @@ body {
 }
 
 .lit {
-  background-color: purple;
+  background-color: #a6a6a6;
   height: 15%;
-  text-align: center;
   border: 5px solid #8c8c8c;
+  display: flex;
+  justify-content: center;
 }
 
 .description {
@@ -24,4 +25,8 @@ body {
   margin-top: 4%;
   text-align: center;
   border: 5px solid #8c8c8c;
+}
+
+.myFooter {
+  background-color: #a6a6a6;
 }
