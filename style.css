@@ -5,6 +5,7 @@ body {
 .selfie {
   width: 100%;
   border: 5px solid #8c8c8c;
+  margin-left: -3%;
 }
 
 .myContainer {
@@ -29,4 +30,11 @@ body {
 
 .myFooter {
   background-color: #a6a6a6;
+  border: 5px solid #8c8c8c;
+  margin-top: 4%;
 }
+
+
+/* ============================================================ */
+/* the below styling is for the ABOUT page */
+
