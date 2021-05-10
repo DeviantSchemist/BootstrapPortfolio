@@ -43,9 +43,15 @@ body {
   height: auto;
 } */
 
+
+
+
+
+
+
 /* ============================================================ */
 
-/* the below styling is for the CONTACT page */
+/* the below styling is for the HOME page */
 
 .my-row {
   background-color: white;
@@ -54,4 +60,9 @@ body {
 .selfie {
   width: 100%;
   border: 5px solid #8c8c8c;
+}
+
+.myFooter {
+  background-color: white;
+  margin-top: 3%;
 }
