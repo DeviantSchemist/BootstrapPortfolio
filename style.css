@@ -43,26 +43,53 @@ body {
   height: auto;
 } */
 
-
-
-
-
-
-
 /* ============================================================ */
 
 /* the below styling is for the HOME page */
 
 .my-row {
   background-color: white;
+  margin-top: 4%;
+  padding-bottom: 5%;
+  border: 5px solid #8c8c8c;
+}
+
+.row>h1 {
+  padding-top: 2%;
+  padding-left: 3%
 }
 
 .selfie {
-  width: 100%;
+  width: 90%;
   border: 5px solid #8c8c8c;
+  margin-left: 3%;
 }
 
 .myFooter {
   background-color: white;
   margin-top: 3%;
+}
+
+/* ============================================================ */
+
+/* the below styling is for the PORTFOLIO page */
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.myCard {
+  border: 5px solid #8c8c8c;
+}
+
+
+
+
+/* ============================================================ */
+/* the below styling is for the CONTACT page */
+.myField {
+  margin-top: 3%;
+  margin-left: 2%;
 }
