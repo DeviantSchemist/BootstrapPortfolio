@@ -54,7 +54,7 @@ body {
   border: 5px solid #8c8c8c;
 }
 
-.row>h1 {
+.row>header>h1 {
   padding-top: 2%;
   padding-left: 3%
 }
